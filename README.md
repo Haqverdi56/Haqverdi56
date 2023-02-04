@@ -21,7 +21,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-<h1 align="center">Hi 👋, I'm Hagverdi</h1>
+
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haqverdi56&label=Profile%20views&color=0e75b6&style=flat" alt="haqverdi56" /> </p>
