@@ -1,6 +1,6 @@
 # Hi there, I'm Hagverdi ! 👋
 
-[![Linkedin: HaqverdiQuliyev](https://img.shields.io/badge/-HaqverdiQuliyev-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps://https://www.linkedin.com/in/haqverdi-quliyev-65b1ab202/)]
+[![Linkedin: HaqverdiQuliyev](https://img.shields.io/badge/-HaqverdiQuliyev-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps://https://www.linkedin.com/in/haqverdi-quliyev-65b1ab202/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Haqverdi56?label=follow&style=social)](https://github.com/Haqverdi56)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haqverdi56&label=Profile%20views&color=0e75b6&style=flat" alt="haqverdi56" /> </p>
 
