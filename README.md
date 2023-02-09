@@ -4,7 +4,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/Haqverdi56?label=follow&style=social)](https://github.com/Haqverdi56)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haqverdi56&label=Profile%20views&color=0e75b6&style=flat" alt="haqverdi56" /> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haqverdi56&show_icons=true&theme=black)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haqverdi56&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haqverdi56&layout=compact&theme=gotham&custom_title=Statistics)  
 
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
